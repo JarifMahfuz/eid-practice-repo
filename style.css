@@ -1,0 +1,14 @@
+body{
+    background-image: url(Happy-Eid-Ul-Adha.png);
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    font-weight: 700;
+    color: rgb(138, 38, 185);
+}
+h2{
+    font-weight: 600;
+    text-align: center;
+    color: white;
+}
